@@ -52,11 +52,6 @@ I build practical AI systems end to end: from data preparation and experimentati
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## GitHub Snapshot
-
-![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kareem-Ayman-salama&theme=github_dark&hide_border=true&show_icons=true&count_private=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Ayman-salama&theme=github_dark&hide_border=true&layout=compact)
 
 ## Connect
 
