@@ -13,12 +13,12 @@ I build practical AI systems end to end: from data preparation and experimentati
 
 | Project | Focus | What it shows |
 | --- | --- | --- |
+| [Breast Cancer AI Decision Support](https://github.com/Kareem-Ayman-salama/breast-cancer-nour) | Medical AI, Streamlit, clinical decision support | Two-path breast cancer workflow covering BCSC risk assessment, METABRIC subtype/survival/recurrence support, doctor dashboard, and benchmarked model results. |
 | [EpiCare AI Backend](https://github.com/Kareem-Ayman-salama/EpiCare-AI-backend) | Medical IoT, .NET, SignalR, AI integration | Backend/API work for realtime patient monitoring and simulator-driven AI prediction demos. |
 | [Optima ChatAgent](https://github.com/Kareem-Ayman-salama/Optima-ChatAgent) | Arabic NLP, restaurant assistant, Streamlit | Arabic-first customer-service agent with structured knowledge base, order flow, and demo UI. |
-| [DR-Alaa](https://github.com/Kareem-Ayman-salama/DR-Alaa) | Medical analytics, Streamlit, ML | Digital-twin style dashboard and notebook workflow for synthetic silicone/VAP risk analysis. |
 | [Real-Time Pulmonary Nodule Detection Using YOLOv8](https://github.com/Kareem-Ayman-salama/Real-Time-Pulmonary-Nodule-Detection-Using-YOLOv8) | Computer vision, medical imaging, YOLOv8 | Object detection workflow for pulmonary nodule detection. |
 | [Nodule Segmentation on LIDC-IDRI](https://github.com/Kareem-Ayman-salama/Nodule-Segmentation-on-LIDC-IDRI) | Segmentation, medical imaging | Lung nodule segmentation workflow using the LIDC-IDRI dataset. |
-| [Home Credit Default Risk](https://github.com/Kareem-Ayman-salama/Home_Credit_Default_Risk) | Tabular ML, risk modeling | Credit-risk modeling and feature-driven machine learning analysis. |
+| [CT-Based Stroke Diagnosis](https://github.com/Kareem-Ayman-salama/Advanced-Deep-Learning-Framework-for-Multi-Class-CT-Based-Stroke-Diagnosis-) | Medical imaging, deep learning, CT classification | Multi-class stroke diagnosis workflow using CT images and deep learning experimentation. |
 
 ## Core Skills
 
